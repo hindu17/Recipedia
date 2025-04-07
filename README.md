@@ -1,3 +1,14 @@
+
+
+"# Recipedia" 
+
+Run the two folders(backend and frontend) seperately
+first run the backend folder using "npm start"
+
+later run frontend using "npm start"
+let the file run concurrently
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,5 +79,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# Recipedia" 
-"# Recipedia" 
+
